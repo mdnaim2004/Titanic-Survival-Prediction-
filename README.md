@@ -43,7 +43,9 @@ This project demonstrates the **complete Data Science workflow**:
 - 🧠 Feature engineering  
 - 🤖 Model training (multiple algorithms)  
 - 📊 Model evaluation & comparison  
-- 🎯 Final prediction pipeline  
+- 🎯 Final prediction pipeline
+
+---
 
 ### 🎯 Objective
 
